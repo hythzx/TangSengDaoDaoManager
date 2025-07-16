@@ -1,8 +1,8 @@
-# 唐僧叨叨后台管理
+# Agile Chat后台管理
 
 ### 介绍 📖
 
-唐僧叨叨后台管理一款基于 Vue3.3、TypeScript、Vite5、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发；是唐僧叨叨业务管理后台。
+Agile Chat后台管理一款基于 Vue3.3、TypeScript、Vite5、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发；是Agile Chat业务管理后台。
 
 - 使用 Vue3.3 + TypeScript 开发，单文件组件＜script setup＞
 - 采用 Vite 作为项目开发、打包工具（配置 gzip/brotli 打包、tsx 语法、跨域代理…）

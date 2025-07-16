@@ -22,7 +22,7 @@ Object.keys(moduleFiles).forEach(name => {
 const TSDD_CONFIG = window.TSDD_CONFIG ? window.TSDD_CONFIG : {};
 // 默认应用配置
 export const BU_DOU_CONFIG = {
-  APP_TITLE: '唐僧叨叨后台管理',
+  APP_TITLE: 'Agile Chat后台管理',
   APP_TITLE_SHORT: '唐',
   ...modules[process.env.APP_ENV as any],
   ...TSDD_CONFIG

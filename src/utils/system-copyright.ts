@@ -3,7 +3,7 @@ if (import.meta.env.PROD) {
   const copyright_main_style = `${copyright_common_style} background: #e24329;`;
   const copyright_sub_style = `${copyright_common_style} background: #707070;`;
   console.info(
-    '%c由%c唐僧叨叨%c驱动',
+    '%c由%cAgile Chat%c驱动',
     copyright_sub_style,
     copyright_main_style,
     copyright_sub_style,

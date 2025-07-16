@@ -38,7 +38,7 @@ const getPlugins = (_command?: string) => {
     createHtmlPlugin({
       inject: {
         data: {
-          title: '唐僧叨叨后台管理',
+          title: 'Agile Chat后台管理',
           injectScript: process.env.IS_CONFIG ? `<script src="/tsdd-config.js"></script>` : null
         }
       }
