@@ -1,4 +1,4 @@
-FROM node:16.20.1 as builder
+FROM node:20.9.0 as builder
 WORKDIR /app
 RUN npm install pnpm -g
 
